@@ -7,19 +7,20 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, an ancient **castle** raised the **Hallowed Flame** on its starward spire— to guide travelers… and hide the land’s oldest secret.  
+   ![castle](img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. That same night, a **dragon** circled the flame. It did not attack; it watched us, as if judging our hearts.  
+   ![dragon](img/dragon.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. At dawn, a **detective** arrived with a cracked **map**. A short note read: “Walk as one, or be lost.”  
+   ![detective](img/detective.png) ![map](img/map.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. We launched a scout **rocket** first to find a path through the storm. Its trail led us to the only safe mountain pass.  
+   ![rocket](img/rocket.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. At the pass, a **knight** asked just one question—“Together?” When we answered “Yes,” he raised the gate.  
+   ![knight](img/knight.png)  
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
