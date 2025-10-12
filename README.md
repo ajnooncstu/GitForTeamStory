@@ -38,4 +38,30 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    
    (What did they find?) 
 
-10. The ending… well, we don’t really have one. Please fix this.
+11. Suddenly, a cheerful **ghost** floated out of the treasure chest, laughing loudly.  
+   ![ghost](img/ghost.png)
+
+12. “Who dares to touch my gold?” it said — but then it noticed the **knight** standing bravely with his shining sword.  
+   ![knight](img/knight.png)
+
+13. “Don’t worry,” said the **scientist**, “this isn’t gold — it’s *compressed data*!”  
+   ![scientist](img/scientist.png)
+
+14. Out of nowhere, a strong **ogre** appeared, flexing his muscles and shouting, “Who deleted my backup folder?!”  
+   ![ogre](img/ogre.png)
+
+15. Before chaos broke out, a wise **wizard** waved his wand and shouted, “Merge Conflict, Begone!” — and magically, everyone froze.  
+   ![wizard](img/wizard.png)
+
+16. When the light faded, the **treasure chest** was glowing again — this time filled with golden coins *and commit messages of friendship*.  
+   ![treasure](img/treasure_open.png)
+
+17. Suddenly, a friendly **alien** descended from the sky with an ice cream and said,  
+   “Peace achieved. Let’s celebrate!”  
+   ![alien](img/alien.png)
+
+18. And so, the heroes — ghost, knight, ogre, scientist, wizard, and alien — became the legendary **Git Guardians**, protecting every repo from bugs and broken code forevermore.  
+
+---
+
+🪄 **The End.**
